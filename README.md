@@ -45,3 +45,12 @@ After downloading, place it in the project folder like this:
 dataset/
 ├── train/
 └── test/
+
+
+## 🤖 Model
+Download the trained model from Kaggle:  
+https://www.kaggle.com/datasets/snehabhateja/xray-disease-detection
+
+Place it inside:
+model/
+└── model.h5
